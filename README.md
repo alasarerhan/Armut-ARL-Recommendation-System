@@ -1,1 +1,1 @@
-# Recommendation-Systems
+Armut, an online service platform in Turkey, connects service providers and service recipients,  offering easy access to services such as cleaning, renovation, and transportation via computers or smartphones. In this project, a product recommendation system was developed using Association Rule Learning, leveraging a dataset that includes services received by users and their corresponding categories.
